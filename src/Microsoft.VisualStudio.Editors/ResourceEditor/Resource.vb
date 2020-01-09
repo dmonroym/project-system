@@ -1549,7 +1549,8 @@ Namespace Microsoft.VisualStudio.Editors.ResourceEditor
             {"System.String", GetType(String).AssemblyQualifiedName},
             {"System.Drawing.Bitmap", GetType(Drawing.Bitmap).AssemblyQualifiedName},
             {"System.Drawing.Icon", GetType(Drawing.Icon).AssemblyQualifiedName},
-            {"System.IO.MemoryStream", GetType(MemoryStream).AssemblyQualifiedName}
+            {"System.IO.MemoryStream", GetType(MemoryStream).AssemblyQualifiedName},
+            {"System.Drawing.Image", GetType(Drawing.Image).AssemblyQualifiedName}
         }
 
         ''' <remarks>
