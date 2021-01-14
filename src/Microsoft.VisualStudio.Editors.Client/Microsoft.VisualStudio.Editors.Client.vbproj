@@ -27,6 +27,7 @@
     <None Remove="Resources\ResourceEditor\BlankWav.wav" />
   </ItemGroup>  
   <ItemGroup>
+    <PackageReference Include="Microsoft.CrmSdk.UII.CommonAssemblies" Version="9.0.0.10" />
     <PackageReference Include="Microsoft.Internal.VisualStudio.Shell.Interop.14.0.DesignTime" />
   </ItemGroup>
   <ItemGroup>

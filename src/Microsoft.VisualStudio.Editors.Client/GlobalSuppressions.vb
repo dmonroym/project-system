@@ -1337,4 +1337,5 @@ Imports System.Diagnostics.CodeAnalysis
 
 ' Bugs
 <Assembly: SuppressMessage("Style", "IDE0070:Use 'System.HashCode'", Justification:="https://github.com/dotnet/roslyn/issues/45995", Scope:="member", Target:="~M:Microsoft.VisualStudio.Editors.PropertyPages.WPF.ApplicationPropPageVBWPF.StartupObject.GetHashCode~System.Int32")>
-
+<Assembly: SuppressMessage("Style", "IDE1006:Naming Styles", Justification:="<Pending>", Scope:="member", Target:="~M:Microsoft.VisualStudio.Editors.Common.Utils.GetNewFileNameViaBrowse(Microsoft.Uii.Csr.Browser.Web.IServiceProvider,System.IntPtr,System.String,System.String,System.String,System.UInt32,System.String,System.Boolean)~System.String")>
+<Assembly: SuppressMessage("Style", "IDE1006:Naming Styles", Justification:="<Pending>", Scope:="member", Target:="~M:Microsoft.VisualStudio.Editors.Common.Utils.GetFilesViaBrowse(Microsoft.Uii.Csr.Browser.Web.IServiceProvider,System.IntPtr,System.String,System.String,System.String,System.UInt32,System.Boolean,System.String,System.Boolean)~System.Collections.ArrayList")>

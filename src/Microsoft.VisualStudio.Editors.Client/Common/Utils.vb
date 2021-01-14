@@ -9,7 +9,7 @@ Imports System.Runtime.Versioning
 Imports System.Text
 Imports System.Text.RegularExpressions
 Imports System.Windows.Forms
-
+Imports Microsoft.Uii.Csr.Browser.Web
 Imports Microsoft.VisualStudio.Editors.Interop
 Imports Microsoft.VisualStudio.Imaging.Interop
 Imports Microsoft.VisualStudio.Shell
